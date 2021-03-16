@@ -1,0 +1,18 @@
+.Profile{
+    margin: 16px;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px #ccc;
+    font-size: 24px;
+    display: inline-block;
+  }
+
+  .LikeButton{
+    font-size: 24px;
+  }
+
+  .LikeCount{
+    font-size: 30px;
+    font-weight: 200;
+  }
